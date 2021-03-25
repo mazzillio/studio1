@@ -1,0 +1,27 @@
+{
+  "name": "studio1",
+  "version": "0.0.1",
+  "description": "aulas de web",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazzillio/studio1.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "\u001b[A\u001b[BMattheus Mazzillio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazzillio/studio1/issues"
+  },
+  "homepage": "https://github.com/mazzillio/studio1#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
